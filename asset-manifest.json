@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parsemyresume_frontend/static/css/main.89f237f8.css",
+    "main.js": "/Parsemyresume_frontend/static/js/main.a680656d.js",
+    "static/js/787.fb0223d6.chunk.js": "/Parsemyresume_frontend/static/js/787.fb0223d6.chunk.js",
+    "index.html": "/Parsemyresume_frontend/index.html",
+    "main.89f237f8.css.map": "/Parsemyresume_frontend/static/css/main.89f237f8.css.map",
+    "main.a680656d.js.map": "/Parsemyresume_frontend/static/js/main.a680656d.js.map",
+    "787.fb0223d6.chunk.js.map": "/Parsemyresume_frontend/static/js/787.fb0223d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f237f8.css",
+    "static/js/main.a680656d.js"
+  ]
+}
